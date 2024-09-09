@@ -1,0 +1,16 @@
+{
+	"scripts": {
+		"test": "jest"
+	},
+	"devDependencies": {
+		"@types/jest": "^29.5.12",
+		"ts-jest": "^29.2.5"
+	},
+	"dependencies": {
+		"dotenv": "^16.4.5"
+	},
+	"name": "buildavatarurl",
+	"description": "This project is a solution to a technical test, which requires building a function that generates an avatar URL based on provided names and a context.",
+	"version": "1.0.0",
+	"author": "Alrick Eymauzy"
+}
